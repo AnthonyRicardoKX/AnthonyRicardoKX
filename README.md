@@ -1,6 +1,6 @@
 Greetings, if you're reading this!
 
-I'm @AnthonyRicardoKX, I assume it's pretty obvious from the repo name haha
+I'm @XarusKX, I assume it's pretty obvious from the repo name haha
 
 A lead software developer dabbling in leadership, resource management, web application, database design, and technical collaboration with third-party businesses. I'm also an avid reader, active writer, hobbyist gamer, and has a big crush on basically just creating something.
 
